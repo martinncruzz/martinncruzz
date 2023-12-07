@@ -2,9 +2,9 @@
 <h3 align="center">A passionate Backend Developer from Argentina</h3>
 <img align="right" alt="Coding" width="350" height="380" src="https://miro.medium.com/v2/resize:fit:1200/1*anJ_utnaYQXFKbap2s0oJg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=martinchx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=martinchx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/></p>
 
-<p align="left"> <a href="https://twitter.com/tinchofps" target="blank"><img src="https://img.shields.io/twitter/follow/tinchofps?style=for-the-badge&logo=twitter" alt="tinchofps"  </p>
+<p align="left"><a href="https://twitter.com/tincho_dev" target="blank"><img src="https://img.shields.io/twitter/follow/tincho_dev?style=for-the-badge&logo=twitter" alt="tincho_dev"/></a></p>
 
 - ❄️ I’m currently working on **Tech-Trend Web App**
 
@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/tinchofps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tinchofps" height="30" width="40"/></a>
-<a href="https://discord.com/users/852752507053801483" target="blank"><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="tinchofps"/></a>
+<a href="https://twitter.com/tincho_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tincho_dev" height="30" width="40"/></a>
+<a href="https://discord.com/users/852752507053801483" target="blank"><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tincho"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
