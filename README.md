@@ -1,10 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martín</h1>
+<h1 align="center">Hello, im Martín.</h1>
 <h3 align="center">A passionate Backend Developer from Argentina</h3>
-<img align="right" alt="Coding" width="350" height="380" src="https://miro.medium.com/v2/resize:fit:1200/1*anJ_utnaYQXFKbap2s0oJg.gif">
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=martinchx&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/></p>
-
-<p align="left"><a href="https://twitter.com/tincho_dev" target="blank"><img src="https://img.shields.io/twitter/follow/tincho_dev?style=for-the-badge&logo=twitter" alt="tincho_dev"/></a></p>
 
 - ❄️ I’m currently working on **Tech-Trend Web App**
 
@@ -36,5 +31,5 @@
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"></a>
 
-| ![Tincho's Streak](https://github-readme-streak-stats.herokuapp.com/?user=martinchx&theme=dark&hide_border=true) |  ![Tincho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinchx&theme=dark&show_icons=true&hide_border=true&layout=compact) | 
+| [![Tincho's Streak](https://github-readme-streak-stats.herokuapp.com?user=Martinchx&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![Tincho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinchx&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
 | ------------- | ------------- |
