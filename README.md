@@ -1,9 +1,9 @@
 <h1 align="center">Hello, im Martín.</h1>
-<h3 align="center">A passionate Backend Developer from Argentina</h3>
+<h3 align="center">A passionate FullStack Web Developer from Argentina</h3>
 
 - ❄️ I’m currently working on **Fake FilmHub API**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Astro and NestJS**
 
 - 💬 Ask me about **Angular, Typescript, NodeJS, Express, MongoDB and PostgreSQL**
 
