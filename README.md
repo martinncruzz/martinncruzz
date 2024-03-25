@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, Typescript, NodeJS, Express, MongoDB and PostgreSQL**
 
-- 📫 How to reach me **martincruz1426@gmail.com**
+- 📫 How to reach me **martincruz0623@gmail.com**
 
 - ⚡ Fun fact **I like to discuss about various topics**
 
