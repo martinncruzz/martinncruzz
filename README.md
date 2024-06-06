@@ -3,19 +3,13 @@
 
 - ❄️ I’m currently working on **Fake FilmHub API**
 
-- 🌱 I’m currently learning **Astro and NestJS**
+- 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **Angular, Typescript, NodeJS, Express, MongoDB and PostgreSQL**
+- 💬 Ask me about **Angular, Typescript, NodeJS, NestJS, MongoDB and PostgreSQL**
 
 - 📫 How to reach me **martincruz0623@gmail.com**
 
 - ⚡ Fun fact **I like to discuss about various topics**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/tincho_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tincho_dev" height="30" width="40"/></a>
-<a href="https://discord.com/users/852752507053801483" target="blank"><img height="40" width="40" align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tincho"/></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -28,6 +22,7 @@
 <a href="https://angular.dev" target="_blank"><img src="https://skillicons.dev/icons?i=angular"></a>
 <a href="https://nodejs.org" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs"></a>
 <a href="https://expressjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=express"></a>
+<a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"></a>
