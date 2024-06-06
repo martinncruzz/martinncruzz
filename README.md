@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Astro**
 
-- 💬 Ask me about **Angular, Typescript, NodeJS, NestJS, MongoDB and PostgreSQL**
+- 💬 Ask me about **Angular, Typescript, NodeJS, Nest, MongoDB and PostgreSQL**
 
 - 📫 How to reach me **martincruz0623@gmail.com**
 
