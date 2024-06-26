@@ -3,7 +3,7 @@
 
 - ❄️ I’m currently working on **Tech-Trend Revamp**
 
-- 🌱 I’m currently learning **Astro**
+- 🌱 I’m currently learning **Microservices**
 
 - 💬 Ask me about **Angular, Typescript, NodeJS, Nest, MongoDB and PostgreSQL**
 
