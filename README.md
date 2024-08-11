@@ -1,9 +1,9 @@
 <h1 align="center">Hello, im Martín.</h1>
 <h3 align="center">A passionate FullStack Web Developer from Argentina</h3>
 
-- ❄️ I’m currently working on **Tech-Trend Revamp**
+- ❄️ I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Microservices**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Angular, Typescript, NodeJS, Nest, MongoDB and PostgreSQL**
 
