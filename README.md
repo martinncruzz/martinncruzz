@@ -3,9 +3,9 @@
 
 - ❄️ I’m currently working as **Freelance**
 
-- 🌱 I’m currently learning **React and NextJS**
+- 🌱 I’m currently learning **React and Next.js**
 
-- 💬 Ask me about **Angular, Typescript, Node.js, Nest, MongoDB and PostgreSQL**
+- 💬 Ask me about **Angular, Typescript, Node.js, NestJS, MongoDB and PostgreSQL**
 
 - 📫 How to reach me **martincruz0623@gmail.com**
 
