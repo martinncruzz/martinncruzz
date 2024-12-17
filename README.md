@@ -23,5 +23,5 @@
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"></a>
 
-| [![Tincho's Streak](https://github-readme-streak-stats.herokuapp.com?user=martinncruzz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![Tincho's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinncruzz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
+| [![Martin's Streak](https://github-readme-streak-stats.herokuapp.com?user=martinncruzz&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) | ![Martin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinncruzz&theme=tokyonight&show_icons=true&hide_border=true&layout=compact) |
 | ------------- | ------------- |
