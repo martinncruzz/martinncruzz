@@ -3,7 +3,7 @@
 
 - ❄️ I’m currently working as **Freelance**
 
-- 🌱 I’m currently learning **React and Next.js**
+- 🌱 I’m currently learning **SSR**
 
 - 💬 Ask me about **Angular, Typescript, Node.js, NestJS, MongoDB and PostgreSQL**
 
