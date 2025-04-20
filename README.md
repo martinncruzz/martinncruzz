@@ -19,7 +19,6 @@
 <a href="https://nestjs.com" target="_blank"><img src="https://skillicons.dev/icons?i=nestjs"></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb"></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgresql"></a>
-<a href="https://jestjs.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jest"></a>
 <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker"></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git"></a>
 
